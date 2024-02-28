@@ -134,14 +134,7 @@ int main()
 	setlocale(LC_CTYPE, "ukr");
 	z4();
 
-	int a = 2;
-	int b = 5;
-	int s;
-
-	s = b;
-	b = a;
-	a = b;
-
+	
 
 }
 
